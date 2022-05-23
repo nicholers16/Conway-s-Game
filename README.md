@@ -1,1 +1,1 @@
-# Conway-s-Game
+# Conways-Game
